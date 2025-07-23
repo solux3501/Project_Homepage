@@ -21,4 +21,5 @@
 * Git에 연동 : 완료
 
 4. DB 설계
-5. CRUD 구현
+* DBMS 3가지 범주 : DDL(정의), DML(조작), DCL(제어)
+6. CRUD 구현
